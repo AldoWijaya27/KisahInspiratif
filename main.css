@@ -1,0 +1,12 @@
+h1 {
+  text-shadow: darkblue;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.card-title {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.jumbotron {
+  padding-top: 30px;
+}
